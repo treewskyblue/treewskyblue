@@ -22,4 +22,4 @@
 
 ## Ongoing works
 - Under technical training for Microsoft Learn Student Ambassadors(MLSA)
-- 2 Collaborative Research
+- 2 Collaborative Researches
