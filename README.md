@@ -14,7 +14,10 @@
 - [Club] Google Developer Group(GDG) Campus Korea & GDG Seoul
 - [Research] 2023년 9월 ~ 12월 | 고려대학교 Big Data Analysis Project - 서울특별시 위험시설 데이터 기반 소방서의 설치 위치에 관한 연구
 - [Research] 2024년 대한의용생체공학회 춘계학술대회 - 연속 혈당 측정 기술(CGM)과 스마트밴드를 이용한 혈당과 수면의 상관관계 분석
+- [Research] 2024년 대한의용생체공학회 추계학술대회 - 기계 학습 모델 기반 제2형 당뇨병 환자의 생활습관에 따른 혈당 변동 분석
+- [Award] 2024년 대한의용생체공학회 추계학술대회 우수 포스터 논문상 (Silver)
 - [Others] 2024년 8월 | 전남대학교 공학교육혁신센터 "딥러닝 및 ChatGPT AI 서비스 제작 교육" 수료
+
 
 ## Qualifications
 - Certification in "Microsoft Azure Data Fundamentals(DP-900)"
