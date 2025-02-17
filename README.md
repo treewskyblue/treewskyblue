@@ -8,7 +8,7 @@
 📫 How to reach me -> I'll update my Linkedin profile soon! 
 
 ## Experiences
-- 전북대학교 바이오메디컬공학부 헬스케어정보공학전공 재학
+- 전북대학교 바이오메디컬공학부(헬스케어정보공학) 재학
 - 2024년 ~ Present | JBNU Human & Computer Interaction Lab. 학부 연구생
 - Student Member of IEEE & IEEE Engineering in Medicine and Biology Society(EMBS)
 - [Club] Google Developer Group(GDG) Campus Korea & GDG Seoul
